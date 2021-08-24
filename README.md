@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Home](.telas/dev/home.png)
+[Home](.telas/dev/home.png)
 
 ## Getting Started
 
